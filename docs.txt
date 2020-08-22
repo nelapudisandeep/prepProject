@@ -1,0 +1,27 @@
+basic layout
+------------
+header
+	logo
+	menu
+		home
+		todo form
+		progress
+main content
+	 home
+		quote section
+
+	 todo form
+		contact form
+
+	 progress
+		progress cards
+	
+footer
+	useful links
+	copyright status
+
+
+functionalities
+----------------
+todo list
+progress cards
